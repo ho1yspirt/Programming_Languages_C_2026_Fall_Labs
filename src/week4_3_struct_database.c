@@ -59,7 +59,7 @@ int main(void) {
     }
   }
 
-  // TODO: Print an empty line, then the table:
+  // Print an empty line, then the table:
   //       printf("%-6s %-11s %s\n", "ID", "Name", "Grade");
   //       and for each student:
   //       printf("%-6d %-11s %.1f\n", id, name, grade);
